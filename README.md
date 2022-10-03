@@ -2,6 +2,7 @@
 
 > 안녕하세요 열심히 공부중인 요루입니다
 
+**pronouns : She/Her**
 
 <a href="https://twitter.com/rihayoru" target="_blank"><img src="https://img.shields.io/badge/@rihayoru-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=fff"/></a>
 <a href="mailto:qtcutie@kakao.com" target="_blank"><img src="https://img.shields.io/badge/qtcutie@kakao.com-FFCD00?style=for-the-badge&logo=Gmail&logoColor=fff"/></a>
