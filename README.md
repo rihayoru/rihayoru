@@ -20,5 +20,10 @@
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/> <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=fff"/> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff"/> 
 
+### 요루의 마법
+- [dimibob-parser](https://github.com/rihayoru/dimibob-parser) 엑셀 급식표 파서
+- [Sorrygle-Desktop](https://github.com/rihayoru/Sorrygle-Desktop) Electron으로 포팅한 [쏘리글 웹](https://sorry.daldal.so/sorrygle)
+- [ASD 랜딩페이지](https://asd.implude.kr/) 
+- [요루플레이스 프론트](https://github.com/rihayoru/yoruplace-frontend) + [요루플레이스 백엔드](https://github.com/rihayoru/yoruplace-backend) 개인 웹사이트
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rihayoru&show_icons=true)
