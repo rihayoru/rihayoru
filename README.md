@@ -25,6 +25,6 @@
 - [Sorrygle-Desktop](https://github.com/rihayoru/Sorrygle-Desktop) Electron으로 포팅한 [쏘리글 웹](https://sorry.daldal.so/sorrygle)
 - [ASD 랜딩페이지](https://asd.implude.kr/) 
 - [요루플레이스 프론트](https://github.com/rihayoru/yoruplace-frontend) + [요루플레이스 백엔드](https://github.com/rihayoru/yoruplace-backend) 개인 웹사이트
-- 디스코드 봇 "초아" 서비스중 (약 8400서버에서 사용중)
+- 디스코드 봇 [초아](https://choabot.com) 서비스중 (약 8400서버에서 사용중)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rihayoru&show_icons=true)
