@@ -9,7 +9,7 @@
 
 ### 기술 스택
 #### 프론트엔드
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff"/>
 
 <img src="https://img.shields.io/badge/html5-1572B6?style=for-the-badge&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/css3-E34F26?style=for-the-badge&logo=css3&logoColor=fff"/> <img src="https://img.shields.io/badge/vanilla js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff"/> 
 
@@ -19,6 +19,9 @@
 <img src="https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=fff"/> <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff"/> <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=json web tokens&logoColor=fff"/>
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/> <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=fff"/> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff"/> 
+
+### 공부중 & 관심사
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/> <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=fff"/>
 
 ### 요루의 마법
 - [dimibob-parser](https://github.com/rihayoru/dimibob-parser) 엑셀 급식표 파서
